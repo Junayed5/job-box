@@ -12,7 +12,7 @@ const Home = () => {
   return(
   <div className="">
   <Landing />  
-  <Join/>
+  {/* <Join/> */}
   <JobCart />
   <Hero/>
       <div className="py-6">

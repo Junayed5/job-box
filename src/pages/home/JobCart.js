@@ -10,7 +10,7 @@ const JobCart = () => {
   
     }, []);
     return (
-        <div className=" mt-6 p-6 ">
+        <div className=" mt-32 p-6 ">
             <h1 className="font-bold text-3xl  py-2">Explore By Category</h1>
             <div className='grid justify-content-center sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-6 '>
 
