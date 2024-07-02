@@ -18,7 +18,7 @@ export const createUser= createAsyncThunk('auth/createUser',async({email,passwor
 });
 
 export const getUser= createAsyncThunk('auth/getUser',async(email)=>{
-    const res = await fetch(`https://jobbox-com.onrender.com/user/${email}`)
+    const res = await fetch(`https://jobbox-server-red.vercel.app/user/${email}`)
     const data=await res.json()
     
     if(data.status){

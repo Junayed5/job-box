@@ -7,12 +7,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC2Xa-FLgWNFEKYDTrgjzDyWAGP_fuJVVU",
-  authDomain: "jobbox-7d1f3.firebaseapp.com",
-  projectId: "jobbox-7d1f3",
-  storageBucket: "jobbox-7d1f3.appspot.com",
-  messagingSenderId: "518835470324",
-  appId: "1:518835470324:web:9dadf58695ab42186683a1"
+  apiKey: "AIzaSyDyJn864eJ-pUG4gS_gWvqVr7il_6x_ZOg",
+  authDomain: "jobbox-cf796.firebaseapp.com",
+  projectId: "jobbox-cf796",
+  storageBucket: "jobbox-cf796.appspot.com",
+  messagingSenderId: "926898330355",
+  appId: "1:926898330355:web:e55b654fb1d9b28b94b586"
 };
 
 // Initialize Firebase
